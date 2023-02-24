@@ -2,6 +2,12 @@
     display: flex;
 }
 
+.aula{
+  margin-top: 30px;
+  margin-left: 640px;
+  color:#a98274
+}
+
 header{
     display: flex;
     flex-wrap:wrap;
@@ -25,6 +31,7 @@ body{
 }
 
 .flex-container>div{
+    margin-top: 82px;
     background-color: #4b2c20;
     margin: 3px;  
     box-shadow: 6px 20px 10px rgb(187, 128, 89);
